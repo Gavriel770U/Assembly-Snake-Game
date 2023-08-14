@@ -1,8 +1,10 @@
 # Assembly-Snake-Game
 Snake game in assembly
-
+_______________________________________
 # Requirements:
 DOSBOX
+_______________________________________
+## Commands To Run The Game:
 
 `mount c: c:\`
 
