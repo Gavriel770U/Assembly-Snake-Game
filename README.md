@@ -6,9 +6,9 @@ DOSBOX
 
 `mount c: c:\`
 
-`c:`
+`c:` 
 
-`cd <YOUR_FOLDER_WITH_TASM>`
+`cd <YOUR_FOLDER_WITH_TASM>` 
 
 `tasm /zi snake.asm`
 
